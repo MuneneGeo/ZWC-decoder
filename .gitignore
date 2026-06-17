@@ -1,0 +1,18 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Tool output
+zwc_results.txt
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# CTF test files (don't upload challenge files)
+*.zip
