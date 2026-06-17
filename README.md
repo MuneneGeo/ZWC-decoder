@@ -49,10 +49,10 @@ The three main characters used:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/zwc-decoder.git
+git clone https://github.com/MuneneGeo/ZWC-decoder.git
 
 # Enter the folder
-cd zwc-decoder
+cd ZWC-decoder
 
 # Make executable (Linux/Mac)
 chmod +x zwc_decoder.py
